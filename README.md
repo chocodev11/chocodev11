@@ -4,39 +4,39 @@ Hey there! I'm **Chocodev**, a freelance high school student with a love for cod
 
 ---
 
-## 🛠️ About Me
+## 🌐 Social:
+<button>
+    <a href="https://github.com/"> Go to your Github Repo </a>
+</button>
+---
+## 🛠️ About Me:
 
 - **Name**: Chocodev
 - **Occupation**: Freelance developer & high school student
 - **Hobbies**: Running a Minecraft server, diving into AI, and coding
-- **Fun Fact**: I spend way too much time perfecting my Minecraft server setups! 🏰
 
 ---
 
-## 💻 Skills
+## 💻 Skills:
 
 I'm familiar with these technologies and always excited to learn more:
 
-- **Programming Languages**: Java, Python, JavaScript, TypeScript
-- **Web Development**: HTML, CSS
-- **Tools & Platforms**: Git, GitHub, StackOverflow
-- **Currently Learning**: AI development and advanced server management! 🎯
 
 ---
 
-## 🎮 Minecraft & Me
+## 🎮 Minecraft & Me:
 
 Minecraft is my creative playground! I run my own server, experiment with redstone, build epic structures, and tweak mods for the ultimate player experience. Got any cool server ideas or plugins to share? Hit me up! 🪓
 
 ---
 
-## 🤖 My Love for AI
+## 🤖 My Love for AI:
 
 I'm fascinated by AI and how it can transform coding and gaming. I often explore AI tools, experiment with machine learning basics, and hang out on StackOverflow to learn from the community. AI + Minecraft? The possibilities are endless! ✨
 
 ---
 
-## 📫 Get in Touch
+## 📫 Get in Touch:
 
 - **GitHub**: You're here! Follow me for updates. 😄
 - **StackOverflow**: Find me answering questions or seeking help as **Chocodev**
