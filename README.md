@@ -4,24 +4,11 @@ Hey there! I'm **Chocodev**, a freelance high school student with a love for cod
 
 ---
 
-## 🌐 Social:
-<button>
-    <a href="https://github.com/"> Go to your Github Repo </a>
-</button>
+## 🌐 Social and Skills:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/newgenmc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com) 
 
----
-## 🛠️ About Me:
 
-- **Name**: Chocodev
-- **Occupation**: Freelance developer & high school student
-- **Hobbies**: Running a Minecraft server, diving into AI, and coding
-
----
-
-## 💻 Skills:
-
-I'm familiar with these technologies and always excited to learn more:
-
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ---
 
