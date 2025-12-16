@@ -26,8 +26,10 @@ Minecraft is my creative playground! I run my own server, experiment with redsto
 
 ---
 
-## 🎮 My Setup:
+## 🖥️ My Setup:
 
 - **Main Laptop**: Lenovo LOQ 15ARP9 | Ryzen 7 7435HS - 24GB RAM - NVIDIA GeForce RTX 4060 8GB
+
+---
 
 Thanks for visiting my profile! Dive into my repos and drop a star if you like what you see! 🌟
