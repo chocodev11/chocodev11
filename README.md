@@ -34,4 +34,4 @@ Minecraft is my creative playground! I run my own server, experiment with redsto
 
 Thanks for visiting my profile! Dive into my repos and drop a star if you like what you see! 🌟
 
-[stat](https://github-readme-stats.vercel.app/api?username=chocodev11)
+![stat](https://github-readme-stats.vercel.app/api?username=chocodev11)
